@@ -1,0 +1,11 @@
+{
+  "name": "clean-desktop",
+  "version": "1.0.0",
+  "description": "App that run in the background to clean your desktop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spy474",
+  "license": "ISC"
+}
